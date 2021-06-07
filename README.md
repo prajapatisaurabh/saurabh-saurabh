@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, SpringBoot, Spring MVC, Hadoop, Apache solr, Hibernate.
 - 🌱 I’m currently learning C# language.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me viva github or intagram both link provided below.
+- 📫 You can reach me via github or intagram both link provided below.
 
 <a href="https://www.instagram.com/_prajapati_saurabh__/">Instagram</a>
 
